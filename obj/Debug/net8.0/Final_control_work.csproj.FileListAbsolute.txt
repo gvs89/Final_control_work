@@ -1,0 +1,15 @@
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\bin\Debug\net8.0\Final_control_work.exe
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\bin\Debug\net8.0\Final_control_work.deps.json
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\bin\Debug\net8.0\Final_control_work.runtimeconfig.json
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\bin\Debug\net8.0\Final_control_work.dll
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\bin\Debug\net8.0\Final_control_work.pdb
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\obj\Debug\net8.0\Final_control_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\obj\Debug\net8.0\Final_control_work.AssemblyInfoInputs.cache
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\obj\Debug\net8.0\Final_control_work.AssemblyInfo.cs
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\obj\Debug\net8.0\Final_control_work.csproj.CoreCompileInputs.cache
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\obj\Debug\net8.0\Final_control_work.sourcelink.json
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\obj\Debug\net8.0\Final_control_work.dll
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\obj\Debug\net8.0\refint\Final_control_work.dll
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\obj\Debug\net8.0\Final_control_work.pdb
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\obj\Debug\net8.0\Final_control_work.genruntimeconfig.cache
+C:\Users\VLADIMIR\Desktop\FCW\Final_control_work\obj\Debug\net8.0\ref\Final_control_work.dll
